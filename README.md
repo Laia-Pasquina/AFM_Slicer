@@ -26,7 +26,7 @@ These results were used to create the graphs of CFA vs Area in the Science publi
 
 ## Steps to follow 
 
-1. These are **FIJI macros**, so the first step is to **Download and Install FIJI**, [here]([https://imagej.net/downloads]).
+1. These are **FIJI macros**, so the first step is to **Download and Install FIJI**, [here][https://imagej.net/downloads].
 2. The code is currenlty composed of code 0, code 1 and code 2. They should be run in order.
 3. The imput file should be an AFM height image in .tif format extracted preferably from open-source software like Gwyddion or TopoStats, but other non-open source formats are accepted too. 
 5. **IMPORTANT**  `The imput image should not have any scale bar, colour bar or any additional drawing, just the image without any edges` e.g. in Gwyddion you can do this by following this instructions: _File > Save as > File type (.TIFF) > Export Tiff window > Lateral scale (None) > Value scale (None) > Image draw frame (unticked)_
