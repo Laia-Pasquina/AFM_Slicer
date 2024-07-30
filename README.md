@@ -1,7 +1,7 @@
 # AFM_Slicer
 
 **Location:** Department of physics and astronomy, University of Sheffield, UK. and School of Biosciences, University of Sheffield, UK.
-**Updated:** July 2024 Dr Laia Pasquina Lemonche and Matthew Barker (cc)
+**Updated:** July 2024 Dr Laia Pasquina Lemonche (https://github.com/Laia-Pasquina) and Matthew Barker (https://github.com/Mjbarker2) (cc)
 
 ## Description of the program
 
